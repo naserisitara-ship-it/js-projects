@@ -145,5 +145,12 @@ do{
 
     }
      const helpeToMohammad = ahwalporsi("Ali Mohammad");
+     function gre(name,lastName,gender){
+        switch gre(gender){
+            case
+        }
+     }
+
+
 
    
